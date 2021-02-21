@@ -1,11 +1,4 @@
-# AssemblyGang
-Private repository of COMP3900 team - Assembly Gang!
+# Book Catalogue Website
+## Overview
 
-Group Members:
-
-Farhan Ghazi (z5199861)
-Michael Papantoniou (z5164398)  
-Tim Huang (z5020441)
-Michael Wang (z5016071)
-
-
+Our website ReadRecommend is a platform that looks to provide a platform for readers to express their opinion on books they've read and liked, as well as a way to find new interesting books to read.
